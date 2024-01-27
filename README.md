@@ -89,7 +89,7 @@ Target:
 
     We conduct hyperparameter tuning using Grid Search on the **best-performing model and resampling method** based on the test data results.
 
-1. Final Model 
+1. Final Model Explanation (in this project is Logistic Regression With SMOTEENN)
 
 1. Conclusion
 1. Recomendation
