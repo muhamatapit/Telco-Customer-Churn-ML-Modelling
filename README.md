@@ -83,7 +83,7 @@ Target:
 
 1. Applying to Test Data
 
-    After identifying the top five performers from the modeling and resampling phase, we apply each model and resampling method to predict outcomes on the test data and evaluate the prediction scores.
+    After identifying the top five performers from the modeling and resampling phase, we apply "the top 5" from each model and resampling method to predict outcomes on the test data and evaluate the prediction scores.
 
 1. Hyperparameter Tuning with Grid Search
 
